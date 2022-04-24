@@ -13,4 +13,4 @@ Setup:
 - run ```npm i && npm start``` to start the development server
 
 ## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://javascriptmastery.eo.page/mailing-list.
+New major projects coming soon, subscribe to the mailing list to stay up to date +2348027663942 https://www.facebook.com/joel.isaiahbobai/.
